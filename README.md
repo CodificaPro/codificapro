@@ -14,3 +14,4 @@
 | Hostinger Domains     | Registro de Domínio        | R$ 50,00           |
 
 **Total estimado:** R$ 240,00 / mês
+Avaliar opção de VPS: https://contabo.com
